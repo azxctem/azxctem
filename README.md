@@ -20,4 +20,5 @@ I'm a beginner programmer and a passionate Linux fan who loves exploring open‑
 
 my email: azxctem@gmail.com
 
-Thanks for visiting my profile! 🙌
+### Thanks for visiting my profile! 🙌
+<i>Someone asked "What about communication, trust?" and someone sayed "La pasion!"</i> - <b>Dexter | 2006-2012</b>
