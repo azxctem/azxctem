@@ -14,7 +14,7 @@ I'm a beginner programmer and a passionate Linux fan who loves exploring open‑
 
 🌍️ Country: Republic of Moldova
 
-💻️ I'm a BackEnd developer
+💻️ I'm a Full Stack developer
 
 ## 📫 Contact
 
